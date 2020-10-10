@@ -11,7 +11,7 @@
           "php": ">=7.3.0"
         , "illuminate/support": "4.x|^8.0"
         , "rackspace/php-opencloud": "1.5.*"
-        , "alchemy/zippy": "^0.4.9"
+        , "alchemy/zippy": "^0.1.0"
     }
     , "autoload": {
         "classmap": [
